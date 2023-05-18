@@ -4,42 +4,6 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>🇺🇸 Hi! I'm Hanna. I'm a social scientist with a passion for big data and statistics. Few things engage my interdisciplinary academic background and perennial curiosity more than the potential of data to reveal meaningful insights and contribute to evidence-based decision-making. As a naturally inquisitive and analytical person, I am committed to continuous learning and staying up-to-date with the latest advances in data science as it pertains to social data. Feel free to take a look at the links to my GitHub, Medium, and LinkedIn profiles on my landing page to see my projects and learn about some of the topics that I find exciting.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-<h2>Skills</h2>
-
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
-
-<h2>Projects</h2>
-
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+<p>🇸🇪 Hej! Hanna heter jag. Jag är en samhällsvetare med intresse för big data och statistiska metoder. Få  saker träffar min tvärvetenskapliga bakgrund och evig nyfikenhet mer än möjligheterna av att använda data för att upptäcka meningsfulla insikter och bidra till evidensbaserade beslut. Som den kunskapssökande och analytiska person jag är så är jag motiverad av kontinuerligt lärande och att hålla mig uppdaterad kring de senaste rön inom data science, i synnerhet när det gäller data som används inom samhällsvetenskaplig analys. Ta gärna en titt på länkarna till mina GitHub-, Medium- samt LinkedInprofilerna på startsidan för att se mina projekt och mer om de ämnen som jag tycker är spännande.</p>
